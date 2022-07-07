@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "highcharts": "^8.0.4",
-    "moment": "2.25.1",
+    "moment": "2.29.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-highcharts": "^16.1.0",
